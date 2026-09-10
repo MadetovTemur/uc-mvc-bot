@@ -1,0 +1,90 @@
+2026-09-09 23:43:14,354 | INFO | Bot started
+2026-09-09 23:43:19,127 | INFO | user=8983362225 (@None) message -> /start
+2026-09-09 23:43:32,514 | INFO | user=8983362225 (@None) message -> 💹 UC narxlari
+2026-09-09 23:45:57,543 | INFO | user=8983362225 (@None) message -> ♻️ UC xarid qilish
+2026-09-09 23:46:06,569 | INFO | user=8983362225 (@None) message -> 180 UC
+2026-09-09 23:46:13,717 | INFO | user=8983362225 (@None) message -> 678990000666
+2026-09-09 23:46:42,410 | INFO | user=8983362225 (@None) message -> <photo>
+2026-09-09 23:46:52,643 | INFO | user=8983362225 (@None) message -> 🌐 Til / Язык
+2026-09-09 23:46:56,016 | INFO | user=8983362225 (@None) callback -> lang:ru
+2026-09-09 23:46:59,214 | INFO | user=8983362225 (@None) message -> 👥 О нас
+2026-09-09 23:47:08,627 | INFO | user=8983362225 (@None) message -> 🧮 Список заказов
+2026-09-09 23:47:14,800 | INFO | user=8983362225 (@None) message -> 🌐 Til / Язык
+2026-09-09 23:47:17,013 | INFO | user=8983362225 (@None) callback -> lang:uz
+2026-09-09 23:47:22,576 | INFO | user=8983362225 (@None) callback -> lang:uz
+2026-09-09 23:47:26,227 | INFO | user=8983362225 (@None) message -> 💹 Цены на UC
+2026-09-09 23:47:55,717 | INFO | user=5087883117 (@Yurevich_017) message -> /start
+2026-09-09 23:48:01,353 | INFO | user=5087883117 (@Yurevich_017) message -> /add_new_order
+2026-09-09 23:48:29,798 | INFO | user=8720544570 (@Y_n_017) message -> /start
+2026-09-09 23:57:11,370 | INFO | Bot started
+2026-09-09 23:57:14,627 | INFO | user=8720544570 (@Y_n_017) message -> /start
+2026-09-09 23:58:24,169 | INFO | user=8983362225 (@None) message -> 8720544570
+2026-09-10 00:00:42,949 | INFO | Bot started
+2026-09-10 00:00:46,185 | INFO | user=8720544570 (@Y_n_017) message -> /start
+2026-09-10 00:00:51,094 | INFO | user=8720544570 (@Y_n_017) message -> 💹 UC narxlari
+2026-09-10 00:00:53,151 | INFO | user=8720544570 (@Y_n_017) message -> ♻️ UC xarid qilish
+2026-09-10 00:00:57,209 | INFO | user=8720544570 (@Y_n_017) message -> /cancel
+2026-09-10 00:01:01,101 | INFO | user=8720544570 (@Y_n_017) message -> 👥 Biz xaqimizda
+2026-09-10 00:01:53,317 | INFO | user=8720544570 (@Y_n_017) message -> /start
+2026-09-10 00:02:02,169 | INFO | user=8720544570 (@Y_n_017) message -> 📥 Kutilayotgan buyurtmalar
+2026-09-10 00:02:06,910 | INFO | user=8720544570 (@Y_n_017) message -> 📥 Kutilayotgan buyurtmalar
+2026-09-10 00:02:40,157 | INFO | Bot started
+2026-09-10 00:02:44,596 | INFO | user=8720544570 (@Y_n_017) message -> 👤 Adminlarni boshqarish
+2026-09-10 00:02:48,951 | INFO | user=8720544570 (@Y_n_017) callback -> admin:add
+2026-09-10 00:03:16,688 | INFO | user=8720544570 (@Y_n_017) message -> 8983362225
+2026-09-10 00:03:22,625 | INFO | user=8720544570 (@Y_n_017) message -> 👤 Adminlarni boshqarish
+2026-09-10 00:03:25,080 | INFO | user=8720544570 (@Y_n_017) callback -> admin:remove
+2026-09-10 00:03:31,197 | INFO | user=8720544570 (@Y_n_017) message -> /cancel
+2026-09-10 00:03:34,071 | INFO | user=8720544570 (@Y_n_017) message -> 📈 Statistika
+2026-09-10 00:03:43,085 | INFO | user=8720544570 (@Y_n_017) message -> 📥 Kutilayotgan buyurtmalar
+2026-09-10 00:04:25,441 | INFO | user=8720544570 (@Y_n_017) message -> 👤 Adminlarni boshqarish
+2026-09-10 00:08:01,390 | INFO | Bot started
+2026-09-10 00:08:35,203 | INFO | user=8720544570 (@Y_n_017) message -> 📥 Kutilayotgan buyurtmalar
+2026-09-10 00:08:54,702 | INFO | user=8720544570 (@Y_n_017) callback -> order:approve:1
+2026-09-10 00:08:57,522 | INFO | user=8720544570 (@Y_n_017) callback -> order:reject:1
+2026-09-10 00:09:00,375 | INFO | user=8720544570 (@Y_n_017) message -> 📥 Kutilayotgan buyurtmalar
+2026-09-10 00:09:20,649 | INFO | user=8720544570 (@Y_n_017) message -> 📥 Kutilayotgan buyurtmalar
+2026-09-10 00:09:24,133 | INFO | user=8720544570 (@Y_n_017) message -> 💰 Narxlarni boshqarish
+2026-09-10 00:09:26,599 | INFO | user=8720544570 (@Y_n_017) callback -> editprice:60
+2026-09-10 00:09:40,104 | INFO | user=8720544570 (@Y_n_017) message -> 18000
+2026-09-10 00:09:49,538 | INFO | user=8720544570 (@Y_n_017) message -> 👤 Adminlarni boshqarish
+2026-09-10 00:09:52,579 | INFO | user=8720544570 (@Y_n_017) message -> 📈 Statistika
+2026-09-10 00:10:47,272 | INFO | Bot started
+2026-09-10 00:11:09,492 | INFO | user=8983362225 (@None) message -> /start
+2026-09-10 00:11:20,652 | INFO | user=8720544570 (@Y_n_017) message -> 👤 Adminlarni boshqarish
+2026-09-10 00:11:23,019 | INFO | user=8720544570 (@Y_n_017) callback -> admin:remove
+2026-09-10 00:11:27,631 | INFO | user=8720544570 (@Y_n_017) message -> 8983362225
+2026-09-10 00:11:34,001 | INFO | user=8983362225 (@None) message -> /start
+2026-09-10 00:11:42,374 | INFO | user=8983362225 (@None) message -> 💹 UC narxlari
+2026-09-10 00:11:47,550 | INFO | user=8983362225 (@None) message -> 🧮 Orderlar ro'yxati
+2026-09-10 00:11:52,881 | INFO | user=8983362225 (@None) message -> ♻️ UC xarid qilish
+2026-09-10 00:11:59,175 | INFO | user=8983362225 (@None) message -> 420 UC
+2026-09-10 00:12:13,145 | INFO | user=8983362225 (@None) message -> 6888899966
+2026-09-10 00:12:33,468 | INFO | user=8983362225 (@None) photo -> AgACAgIAAxkBAAOSaqGvoGFw1uMBz9ChNG0zxMzcUvMAAngsaxsK2QhJxBDklNzCRToBAAMCAAN3AAM9BA
+2026-09-10 00:12:59,155 | INFO | user=8983362225 (@None) message -> ♻️ UC xarid qilish
+2026-09-10 00:13:03,667 | INFO | user=8983362225 (@None) message -> 1950 UC
+2026-09-10 00:13:13,080 | INFO | user=8983362225 (@None) photo -> AgACAgIAAxkBAAMJaqGOdQF0WR1O70KgkCTdcQH3pxcAAq8raxsK2QhJW80tls7KnlYBAAMCAAN3AAM9BA
+2026-09-10 00:13:23,111 | INFO | user=8983362225 (@None) message -> 56789997765789
+2026-09-10 00:13:30,102 | INFO | user=8983362225 (@None) photo -> AgACAgIAAxkBAAMJaqGOdQF0WR1O70KgkCTdcQH3pxcAAq8raxsK2QhJW80tls7KnlYBAAMCAAN3AAM9BA
+2026-09-10 00:13:40,122 | INFO | user=8720544570 (@Y_n_017) message -> 📥 Kutilayotgan buyurtmalar
+2026-09-10 00:15:27,327 | INFO | Bot started
+2026-09-10 00:15:32,153 | INFO | user=8720544570 (@Y_n_017) message -> 📥 Kutilayotgan buyurtmalar
+2026-09-10 00:17:40,461 | INFO | Bot started
+2026-09-10 00:17:43,056 | INFO | user=8720544570 (@Y_n_017) message -> 📥 Kutilayotgan buyurtmalar
+2026-09-10 00:18:32,019 | INFO | Bot started
+2026-09-10 00:18:40,356 | INFO | user=8720544570 (@Y_n_017) message -> 📥 Kutilayotgan buyurtmalar
+2026-09-10 00:19:42,056 | INFO | user=8720544570 (@Y_n_017) message -> 📥 Kutilayotgan buyurtmalar
+2026-09-10 00:19:52,035 | INFO | user=8720544570 (@Y_n_017) message -> 🌐 Til / Язык
+2026-09-10 00:19:54,048 | INFO | user=8720544570 (@Y_n_017) callback -> lang:ru
+2026-09-10 00:19:55,596 | INFO | user=8720544570 (@Y_n_017) message -> 📥 Ожидающие заказы
+2026-09-10 00:20:47,723 | INFO | user=8720544570 (@Y_n_017) message -> 📥 Ожидающие заказы
+2026-09-10 00:21:02,665 | INFO | Bot started
+2026-09-10 00:21:05,965 | INFO | user=8720544570 (@Y_n_017) message -> 📥 Ожидающие заказы
+2026-09-10 00:23:14,514 | INFO | Bot started
+2026-09-10 00:23:20,495 | INFO | user=8720544570 (@Y_n_017) message -> 📥 Ожидающие заказы
+2026-09-10 00:27:00,238 | INFO | user=8720544570 (@Y_n_017) callback -> order:reject:3
+2026-09-10 00:27:20,929 | INFO | user=8720544570 (@Y_n_017) message -> Деньги не пришли
+2026-09-10 00:27:42,581 | INFO | user=8720544570 (@Y_n_017) message -> 📥 Ожидающие заказы
+2026-09-10 00:27:46,676 | INFO | user=8720544570 (@Y_n_017) callback -> order:approve:2
+2026-09-10 00:28:02,757 | INFO | user=8983362225 (@None) message -> 🧮 Orderlar ro'yxati
+2026-09-10 00:28:12,471 | INFO | user=8983362225 (@None) message -> 👥 Biz xaqimizda
